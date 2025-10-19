@@ -1,0 +1,8 @@
+Infrastructure as Code (IaC) Simulation
+---------------------------------------
+Resources Provisioned:
+- Web Server
+- Database
+- Storage Bucket
+
+Status: Active 
